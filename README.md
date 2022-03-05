@@ -24,10 +24,10 @@ https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode
 - https://adguard.com/en/adguard-dns/overview.html
 
 ### Recommended browsers
--Chromium based:
+- Chromium based:
 Brave, Bromite, Ungoogled Chromium
 
--Firefox based:
+- Firefox based:
 Firefox (w/user.js), IceCat, LibreWolf
 
 ### Recommended search engines
@@ -44,18 +44,12 @@ Cock.li, RiseUp (invite only)
 - https://github.com/TeamPiped/Piped
 
 ### Beginner-friendly distros
-Linux Mint
-Manjaro
-K/L/Xubuntu
+- Linux Mint
+- Manjaro
+- K/L/Xubuntu
 
 ### Additional resources
 - https://www.torproject.org/download
 - https://chromium.woolyss.com
 - https://ffprofile.com
 - https://pastebin.com/eQUZTzYC
-
-> "Facebook is not your friend, it is a surveillance engine."
---Richard Stallman
-
-> "The NSA has built an infrastructure that allows it to intercept almost everything."
---Edward Snowden
